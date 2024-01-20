@@ -5,7 +5,7 @@
   "homepage": "https://medeea98.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/ dist-dir parcel"
+    "build": "parcel build src/*.html"
   },
   "repository": {
     "type": "git",
