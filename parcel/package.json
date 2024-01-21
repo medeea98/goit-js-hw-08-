@@ -2,11 +2,11 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://medeea98.github.io/goit-js-hw-08/",
+  "homepage": "medeea98.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel",
-    "deploy": "gh-pages -d dist"
+    "build": "parcel build src/*.html --public-url /parcel"
+    
   },
   "repository": {
     "type": "git",
